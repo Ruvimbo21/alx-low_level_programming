@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*_isupper - checks id a character is uppercase or not
+*_isupper - checks sd a character is uppercase or not
 *@c: character to be tested
 *Return: 1 whether it is, 0 otherwise
 */
